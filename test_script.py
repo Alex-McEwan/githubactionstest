@@ -1,4 +1,3 @@
-# test_script.py
 
 from script import hello_world
 
